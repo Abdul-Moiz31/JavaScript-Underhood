@@ -21,7 +21,7 @@ Undeclared variables are implicitly created as global variables when assigned a 
 
 // var foo = 10;
 // let bar = 20;
-//  Variable hoisiting act differently 
+//  Variable hoisting act differently 
 // Variable hoisting with var
 
 var foo;
