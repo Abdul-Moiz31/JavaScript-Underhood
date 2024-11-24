@@ -126,3 +126,17 @@ console.log(counter1.value()); // 8.
 counter1.decrement();
 console.log(counter1.value()); // 10.
 console.log(counter2.value()); // 0.
+
+// Closure and Lexical Scoping 
+
+/*  */
+
+
+
+function outer(){
+    let username = "Moiz"
+    function inner() {
+        console.log(username);
+    }
+}
+console.log("Very Out :" , username);

@@ -31,7 +31,7 @@ console.log(foo); 2
 
 /* Var is accesab;le in global scope . Remember that the first console.log(foo) outputs undefined because foo is 
 hoisted and given a default value (not because the variable is never declared). */
-//  console.log(AB); // ReferenceError because we are using an un decared variable 
+//  console.log(AB); // ReferenceError because we are using an undeclared variable 
 
 /* Variable hoisting with let and const */
 // Variables declared with let and const are hoisted but not initialized with a default value. 
