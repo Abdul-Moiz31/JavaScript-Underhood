@@ -7,7 +7,7 @@ let object = {
     address:"Lahore",
     Degree:"BSCS", 
     Semester: 7,
-    Contact: "03014529958" , 
+    Contact: "03014529958" ,  
 };
 // console.log(" The deatisl are " , "Name :" ,  object.name ,"Address :" , object.address ,"Contact :" , object.Contact);
 
